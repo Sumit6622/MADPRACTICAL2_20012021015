@@ -32,17 +32,19 @@ Toast Message :
 Snackbar Message :
 
 1.onCreate()
+![s1](https://user-images.githubusercontent.com/110661984/187070510-4e558d7f-dc1e-4613-949d-44c65b5aa328.png)
 
 2.onStart()
-
+![s2](https://user-images.githubusercontent.com/110661984/187070518-855b1292-0cd1-4fe3-90c4-593d2c63bf3e.png)
 
 3.onResume()
-
+![s3](https://user-images.githubusercontent.com/110661984/187070530-2619a64f-31da-4865-86ac-503d51339f64.png)
 
 4.onRestart()
-
+![s4](https://user-images.githubusercontent.com/110661984/187070565-44a34824-d792-4708-9c84-3813a229ebfd.png)
 
 5.onPause()
-
+![s5](https://user-images.githubusercontent.com/110661984/187070589-9503267f-e7fb-404d-a9f7-a1916857087d.png)
 
 6.onStop()
+![s6](https://user-images.githubusercontent.com/110661984/187070603-bd9bd5de-3e1c-49d8-89ee-f609459eb1d2.png)
